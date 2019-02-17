@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tanakornohm/Desktop/flutter work_space/flutter_assignment/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/tanakornohm/Desktop/flutter_assignment/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/tanakornohm/Desktop/flutter work_space/flutter_assignment/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/tanakornohm/Desktop/flutter_assignment/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
